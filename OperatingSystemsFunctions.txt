@@ -1,0 +1,3 @@
+The main function of an operating system is being the communicator between the person using the computer and the actual computer.
+The operating system is a software that basically translates what the person using the computer is trying to do to the computer they're using.
+It provides a platform for the person using the computer to use programs in a streamlined way.
