@@ -4,3 +4,6 @@ It provides a platform for the person using the computer to use programs in a st
 Security is another function of the operating system.
 The operating system is able to protect the computer and the data on the computer from threats.
 The operating system is also able to protect the computer from unauthorized access by requiring a password if it detects an unknown user.
+The operating system is tasked with memory management.
+It has to allocate the limited amount of system memory (RAM) while the program is being executed.
+The operating system also controls virtual memory, which helps farm out the work load of RAM.
