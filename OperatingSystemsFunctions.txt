@@ -1,3 +1,6 @@
 The main function of an operating system is being the communicator between the person using the computer and the actual computer.
 The operating system is a software that basically translates what the person using the computer is trying to do to the computer they're using.
 It provides a platform for the person using the computer to use programs in a streamlined way.
+The operating system provides security to the computer and the computer users data.
+The operating system provides this security by recognizing when an unknown user is trying to access content on the computer and requires them to input a password.
+Unauthorized access to a computer is just one line of defense that the operating system provides.
